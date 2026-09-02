@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-color: white;
+  background-color: rgb(223, 221, 221);
   position: relative;
   min-height: 100vh;
   padding: 0;
