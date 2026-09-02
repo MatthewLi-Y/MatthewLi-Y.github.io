@@ -71,13 +71,12 @@ main {
   height: 2.5rem;
 }
 
-.about {
+.about-title {
   display: flex;
   justify-content: center;
   align-items: center;
   font-family: helvetica;
-  background-color: black;
-  color: white;
+  color: rgb(0, 0, 0);
   position: absolute;
   bottom: 0;
   width: 100%;
