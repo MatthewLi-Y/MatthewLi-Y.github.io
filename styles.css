@@ -75,6 +75,7 @@ main {
   color: black;
   font-family: helvetica;
   font-size: 1.2rem;
+  font-weight: bold;
 }
 
 .about {
