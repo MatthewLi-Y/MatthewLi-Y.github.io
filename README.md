@@ -1,6 +1,6 @@
 # Matthew Li's Personal Website
 
-This is a personal website built using the Hack4Impact Starter Pack! [Visit it here!](https://github.com/MatthewLi-Y/MatthewLi-Y.github.io)
+This is a personal website built using the Hack4Impact Starter Pack! [Visit it here!](https://MatthewLi-Y.github.io)
 Hello! I'm Matthew Li, a first-year computer science student at Cal Poly SLO! I'm still learning as much as I can about coding languages, stacks, tools, etc., so I'm not that experienced 🥀
 **In my free time...**
 
