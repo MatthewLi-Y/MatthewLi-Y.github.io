@@ -76,3 +76,26 @@ main {
   font-family: helvetica;
   font-size: 1.2rem;
 }
+
+.about {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  max-width: 900px;
+}
+
+.about-image img {
+  display: block;
+  max-width: 300px;
+  height: auto;
+}
+
+.about-text {
+  flex: 1;
+}
+
+@media (max-width: 700px) {
+  .about {
+    flex-direction: column;
+  }
+}
