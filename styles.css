@@ -33,7 +33,7 @@ main {
   align-items: center;
   text-align: center;
 
-  background-color: rgb(153, 231, 137);
+  background-color: rgb(107, 165, 112);
   color: white;
   padding: 0px 0px;
 
@@ -50,7 +50,7 @@ main {
 }
 
 .navbar a {
-  color: rgb(255, 255, 255);
+  color: rgb(38, 41, 38);
   font-weight: bold;
   margin: 0 12px;
   text-decoration: none;
